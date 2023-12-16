@@ -58,4 +58,5 @@ img{
     height: 30px;
     border-radius: 50%;
     margin: 10px;
+    cursor: pointer;
 }
