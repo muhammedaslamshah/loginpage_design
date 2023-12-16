@@ -46,6 +46,7 @@ input{
     border: 2px solid rgb(83, 177, 83);
     font-size: 16px;
     font-weight: bold;
+    cursor: pointer;
 }
 .img-group{
     width: 30%;
